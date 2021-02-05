@@ -9,6 +9,7 @@ Student of BRU. I like to create web-sites on pure HTML/CSS/JS. Read articles. I
 - HTML5
 - CSS3
 - JavaScript
+- PHP
 ## Code example
 ```html
 <nav class="nav nav-primary">
