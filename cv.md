@@ -5,14 +5,14 @@
 <a href="https://t.me/i0rdan"><img height="50" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/i0rdan"><img height="50" src="http://mostafakhezri.com/img/github.png"></a>&nbsp;&nbsp;
 
-## Information 
+## 📃Information📃
 Student of BRU. I like to create web-sites on pure HTML/CSS/JS. Read articles. I’m in the process of studying JavaScript. I want to develop in learning new technologies, public speaking and sharing my knowledge with others.
-## Skills 
+## ✔Skills✔
 - HTML5
 - CSS3
 - JavaScript
 - PHP
-## Code example
+## ⚙Code example⚙
 ```html
 <nav class="nav nav-primary">
   <ul>
@@ -35,10 +35,11 @@ Student of BRU. I like to create web-sites on pure HTML/CSS/JS. Read articles. I
   </ul>
 </nav>
 ```
-## Work experience 
-## Education 
+## 🤡Work experience🤡
+<img height="250" src="https://typographya.files.wordpress.com/2011/09/null-21.jpg">
+## 🧠Education🧠
 - BRU (2017-2021), ASOI Infocommunication Engineer
 - IPK BRU (2019-2021) Interpreter
 - Trained on htmlacademy and FreeCodeCamp
 - Wrote a term paper on installing a web-application on CMS WordPress and Local server MAMP
-## English level(B1)
+## 😊English level(B1)😊
