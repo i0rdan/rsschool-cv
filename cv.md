@@ -36,7 +36,7 @@ Student of BRU. I like to create web-sites on pure HTML/CSS/JS. Read articles. I
 </nav>
 ```
 ## 🤡Work experience🤡
-<img height="250" src="https://typographya.files.wordpress.com/2011/09/null-21.jpg">
+<img height="250" src="https://typographya.files.wordpress.com/2011/09/null-21.jpg"> &nbsp;
 ## 🧠Education🧠
 - BRU (2017-2021), ASOI Infocommunication Engineer
 - IPK BRU (2019-2021) Interpreter
