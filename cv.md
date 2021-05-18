@@ -39,4 +39,4 @@ Student of BRU. I like to create web-sites on pure HTML/CSS/JS. Read articles. I
 - IPK BRU (2019-2021) Interpreter
 - Trained on htmlacademy and FreeCodeCamp
 - Wrote a term paper on installing a web-application on CMS WordPress and Local server MAMP
-## English level(B1)
+## English level(B11)
