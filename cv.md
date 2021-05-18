@@ -1,8 +1,12 @@
 # 😎😎😎😎😎😎😎😎***YAUHENI KAZUSEU***😎😎😎😎😎😎😎😎
-## Contacts
-- [VK](https://vk.com/i0rdan)
-- [Telegram](https://t.me/i0rdan)
-- [GitHub](https://github.com/i0rdan)
+## 👉Contacts👈
+
+<p align='center'>
+<a href="https://vk.com/i0rdan"><img height="30" src="https://static.tildacdn.com/tild3731-3236-4364-b266-336436626566/photo.png"></a>&nbsp;&nbsp;
+<a href="https://t.me/i0rdan"><img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/i0rdan"><img height="30" src="https://static.tildacdn.com/tild3731-3236-4364-b266-336436626566/photo.png"></a>&nbsp;&nbsp;
+</p>
+
 ## Information 
 Student of BRU. I like to create web-sites on pure HTML/CSS/JS. Read articles. I’m in the process of studying JavaScript. I want to develop in learning new technologies, public speaking and sharing my knowledge with others.
 ## Skills 
